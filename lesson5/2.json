@@ -1,0 +1,10 @@
+{
+    "name": "Ivan",
+    "surname": "Ivanov",
+    "patronymic": "Ivanivich",
+    "age": 29,
+    "birthplace": "Moscow",
+    "phones": [
+        792327662348
+    ]
+}
